@@ -10,7 +10,7 @@ Full results are behind the Mosaic sign-in at **[mosaic.motifplatforms.com](http
 
 | Report | Format | Status | Tasks | Scored runs | Models compared |
 |---|---|---|---|---|---|
-| ThinkCell runs | PowerPoint | In progress | 11 (7 create, 4 edit) | 44 of 44 | Opus 5.5 vs Sonnet 5.5 |
+| ThinkCell runs | PowerPoint | In progress | 11 (7 create, 4 edit) | 55 of 55 | Opus 5.5, Sonnet 5.5 and Opus 5 |
 | Financial modelling | Excel | Sample data (layout preview) | 10 (6 create, 4 edit) | 20 of 20 | Opus 5.5 vs Sonnet 5.5 |
 | Board-pack drafting | Word | Sample data (layout preview) | 10 (5 create, 5 edit) | 20 of 20 | Opus 5.5 vs Sonnet 5.5 |
 

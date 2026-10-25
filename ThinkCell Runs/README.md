@@ -1,13 +1,13 @@
-# ThinkCell Runs: Claude Opus 5.5 vs Sonnet 5.5 on consulting-grade PowerPoint work
+# ThinkCell Runs: Claude Opus 5.5, Sonnet 5.5 and Opus 5 on consulting-grade PowerPoint work
 
-Motif Platforms' PPTX-Bench asks two Claude models to build and edit consulting decks from public filings, then scores every deck blind against a 100-point rubric, with a focus on whether the models use think-cell.
+Motif Platforms' PPTX-Bench asks three Claude models to build and edit consulting decks from public filings, then scores every deck blind against a 100-point rubric, with a focus on whether the models use think-cell.
 
-Updated October 23, 2026 · 43 of 44 planned runs scored.
+Updated October 25, 2026 · 50 of 55 planned runs scored.
 
 ## Headline
 
-- First runs of the 7 creation tasks: Claude Opus 5.5 averages **83.3**, Claude Sonnet 5.5 **80.4** out of 100.
-- think-cell was used in **6 of 43** scored runs; when optional, both models build native, editable PowerPoint charts instead.
+- First runs of the 7 creation tasks: Claude Opus 5.5 averages **83.3**, Claude Sonnet 5.5 **80.4** and Claude Opus 5 **67.4** out of 100.
+- think-cell was used in **6 of 50** scored runs; when optional, the models build native, editable PowerPoint charts instead.
 
 ## Full results
 
